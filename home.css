@@ -41,7 +41,7 @@ body
 }
 .hedar-contant
 {
-    background-image:linear-gradient(rgba(56, 122, 92, 0.445),rgba(128, 128, 128, 0.507)),url("images/cover.jpg");
+    background-image:linear-gradient(rgba(56, 122, 92, 0.445),rgba(128, 128, 128, 0.507)),url("cover.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: 80vh;
